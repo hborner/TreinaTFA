@@ -1,4 +1,4 @@
-package br.gov.dataprev.engine;
+package br.gov.dataprev.share;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
