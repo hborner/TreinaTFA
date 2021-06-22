@@ -1,0 +1,3 @@
+cenario,nomeProduto,MensagemEsperada
+Cenario inicial,Produto Teste,O produto 'Produto Teste' foi alterado com sucesso. O produto Produto Teste foi alterado com sucesso.
+Cenario alternativo,Produto Data Driven,O produto 'Produto Data Driven' foi alterado com sucesso. O produto Produto Data Driven foi alterado com sucesso.
